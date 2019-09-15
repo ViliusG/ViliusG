@@ -14,6 +14,16 @@ var projects = [
 		description: 'Built an intranet for an Italian software company. User and product management system. PHP 5.6, JavaScript, Leaflet.',
 		url: ''
 	},
+	{
+		name: 'Vending Machine',
+		description: 'Test I got from my last employer. Core PHP, OOP, PHPUnit',
+		url: 'https://github.com/ViliusG/vending-machine'
+	},
+	{
+		name: 'Binary Search Exercise',
+		description: 'An exercise I made up to practise some JavaScript and logic',
+		url: 'https://github.com/ViliusG/binary-search'
+	}
 ]
 
 var skills = [
@@ -53,8 +63,9 @@ var smallSkills = [
 	'CSS3',
 	'Bootstrap',
 	'Swagger',
+	'Jira',
 	'Twitter API',
 	'Web Scraping',
 	'Faker',
-	'L10n'
+	'L10n',
 ]
